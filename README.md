@@ -2,14 +2,14 @@
 - 📢 I’m currently working on my study plan
 - 🌱 I’m currently learning everything
 - 🎯 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love graphic design 🎨 and traveling ✈️
+- ⚡ Fun fact: I love graphic design 🎨, dancing 💃, and traveling ✈️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarissarjtai&count_private=true&show_icons=true&theme=vue)
 
 ### Connect with me:
 
-[<img align="left" alt="Ruo-ju (Clarissa) Tai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Clarissa RJ Tai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="clarissa-ruo-ju-tai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="clarissarjtai | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 <br />
 
 ### Languages and Tools:
@@ -24,6 +24,8 @@
 
 <br />
 
+[linkedin]: www.linkedin.com/in/clarissa-ruo-ju-tai
+[medium]: https://clarissarjtai.medium.com/
 <!--
 **clarissarjtai/clarissarjtai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
