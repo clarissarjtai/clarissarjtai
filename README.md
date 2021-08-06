@@ -1,8 +1,15 @@
 ### Hi there, I am Clarissa Tai 👋
-- 📢 I’m currently working on my study plan
-- 🌱 I’m currently learning everything
+A motivated lifelong learner who dedicates to build data-driven solutions for business, manufacturing and medical problems using statistical tools and machine learning algorithms.
+
+- ✅ Pursuing Master degree in Data Science at Columbia University
+- 🔥 Love to share experience, passion and hacks in building technical skills and soft skills
+- 📊 Having great enthusiasm in adopting graphic design technology to data visualization
+- 🔍 Passionate about exploring new data insights to solve various business problems
+- 📚 Interested in signal analysis and research of electrochemical biosensor
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love graphic design 🎨, dancing 💃, and traveling ✈️
+
+**“Life's trials will test you, and shape you, but don’t let them change who you are.” ~ Aaron Lauritsen**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarissarjtai&count_private=true&show_icons=true&theme=vue)
 
